@@ -1,0 +1,11 @@
+h1{
+    margin: 0;
+    font-size: 48px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(20, 68, 20);
+}
+
+p{
+   color: coral;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
